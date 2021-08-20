@@ -1,4 +1,4 @@
-package Scientific
+package ScientificCalc
 
 
 type SNos struct {
